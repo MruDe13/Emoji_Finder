@@ -1,0 +1,22 @@
+.App {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  text-align: center;
+  color: black;
+  height: 100%;
+}
+
+input {
+  width: 70vh;
+  height: 15vh;
+  border-color: darkblue;
+  font-size: 20px;
+  border-radius: 0.5rem;
+  text-align: center;
+}
+.Answer {
+  margin: 2rem;
+}
+
+.output {
+  font-size: 30px;
+}
